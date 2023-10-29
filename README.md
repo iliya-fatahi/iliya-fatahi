@@ -59,7 +59,7 @@ I'm a software engineer, specializing in backend development . I have few experi
 </p>
 
 
-- 🔭 A .NET Backend Developer / Software Architect • Consultant • Blogger • DDD & Microservices Enthusiast.
+- 🔭 A .NET Backend Developer / Software Architect • DDD & Microservices Enthusiast.
 - 💬 Ask me about Clean Architecture, MicroServices, DDD, and .NET Core
 - 👯 I’m looking to collaborate on: .NET projects
 
